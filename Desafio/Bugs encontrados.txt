@@ -1,0 +1,5 @@
+1- Na rede social Buzz, ao fazer upload de uma imagem e apagá-la antes de ser postada e depois fazer upload da mesma imagem, ela não aparece para ser postada,
+    é necessário fazer upload de outra imagem.
+
+2- No menu PIM, ao clicar no submenu Add Employee, o sombreamento do menu não aparece, o que pode confundir e fazer com que o usuário
+     ache que não está na página desejada
